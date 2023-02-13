@@ -8,6 +8,6 @@ int main() {
         f0 = f1;
         f1 = fn;
         fn = f1 + f0;
-        cout <<" " << fn;
+        cout <<" " << fn << endl;
     }
 }
