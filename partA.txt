@@ -1,1 +1,24 @@
-
+Câu 1.
+- Lệnh trên gán giá trị true/false cho biến bool isA sau khi thực hiện phép kiểm tra nếu biến grade thỏa mãn điều kiện cho trước.
+- Sai lỗi cú pháp. Sửa lại: bool isA = (90 <= grade && grade <= 100).
+Câu 2. Đoạn chương trình sẽ in ra kết quả 0, vì trước khi được ép thành kiểu double, phép tính 3/5  đã cho kết quả là 0.
+Câu 3. Giá trị 65536 và 65536^2 nằm ngoài khả năng lưu trữ của kiểu dữ liệu int và long (32bit) nên đoạn code trên không in ra giá trị mong muốn.
+Câu 4. Biểu thức đã cho sẽ trả về False, vì sqrt(2) thuộc kiểu dữ liệu double và có giá trị chưa chính xác tuyệt đối.
+Câu 5. Chương trình sẽ bị lỗi "division by zero".
+Câu 6. 
+- Chương trình sẽ bị lỗi "invalid operands of types 'int' and 'const char [6]' to binary 'operator*'".
+- Nếu chuyển dòng khai báo x ra ngoài hàm main thì x mặc định bằng 0.
+Câu 7. Đoạn code sẽ cho output sau đây:
+0
+0.75
+0.75
+0.75
+Câu 8. Chương trình báo hai lỗi: Xung đột trong việc khai báo biến (biến arg1 được khai báo 2 lần) và kiểu char có nhiều hơn 1 kí tự ('5 ' và 'A ').
+Câu 9.
+- Chương trình không có lỗi.
+- Khi ở bên trong khối lệnh con, định danh arg1 chỉ tới biến arg1 kiểu char có giá trị 'A'.
+Câu 10.
+- Chương trình không có lỗi.
+- Khi ra khỏi khối lệnh con, định danh arg1 chỉ tới biển arg1 kiểu int có giá trị -1.
+Câu 11. Lệnh này sẽ luôn trả về 0 vì kết quả của phép chia 5/9 là 0.
+Câu 12. Đoạn code trên sẽ in ra "Here".
