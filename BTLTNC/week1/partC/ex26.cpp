@@ -20,4 +20,5 @@ int main() {
             MIN = a[i];
     }
     cout << MAX << " " << MIN;
+    
 }
