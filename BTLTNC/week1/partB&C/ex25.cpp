@@ -3,5 +3,6 @@
 using namespace std;
 
 int main() {
-    double a, b, c;
+    double a, b, c, e, f;
+    
 }
