@@ -1,1 +1,2 @@
-Repository dành riêng cho lớp LTNC
+Đoàn Minh Quân - 22028315
+INT2215 23
