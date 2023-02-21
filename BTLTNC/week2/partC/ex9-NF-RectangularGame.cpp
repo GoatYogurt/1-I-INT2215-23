@@ -3,8 +3,6 @@
 
 using namespace std;
 
-
-
 int main() {
     vector<vector<int>> matrix (100, vector<int>(100,0));
     cout << matrix[1][1];
