@@ -11,6 +11,5 @@ int main() {
         cin >> a >> b;
         for (int j = )
     }
-    
 }
 
