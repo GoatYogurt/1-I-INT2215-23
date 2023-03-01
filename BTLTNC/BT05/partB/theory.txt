@@ -1,0 +1,2 @@
+3. hàm cube sẽ chạy 1000 lần
+4. chương trình sẽ in ra 1717
