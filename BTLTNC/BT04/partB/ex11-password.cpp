@@ -1,5 +1,6 @@
-//da chay thanh cong tren hackerearth
+//đã chạy thành công trên hackerearth: http://www.hackerearth.com/problem/algorithm/password-1/
 #include <iostream>
+
 using namespace std;
 
 bool checkPalind(string s1, string s2)
