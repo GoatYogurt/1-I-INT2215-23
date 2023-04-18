@@ -2,4 +2,3 @@ A2. Do thiếu điều kiện thoát khỏi đệ quy (phần cơ sở) nên hà
 A3. Hàm đệ quy đã có điều kiện lặp: khi và chỉ khi n = 1, nhưng sau mỗi lần đệ quy giá trị của n lại không thay đổi nên giả
 sử n khác 1 thì điều kiện dừng sẽ không bao giờ thỏa mãn, do đó khi n khác 1 thì chương trình sẽ chạy mãi và gây tràn bộ nhớ.
 A4. Hàm đệ quy có tham số đầu vào quá lớn khiến hàm chạy quá nhiều lần gây tràn bộ nhớ.
-A5.
