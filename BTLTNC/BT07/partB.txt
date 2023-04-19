@@ -1,6 +1,6 @@
-1. Chương trình sẽ in ra:
+B1. Chương trình sẽ in ra:
 giá trị d, địa chỉ d
 giá trị c, địa chỉ c
 
-2. *p = 5
-3. kieu con tro khong dung voi kieu dia chi bien
+B2. *p = 5
+B3. Kiểu con trỏ không đúng với kiểu địa chỉ của biến.
